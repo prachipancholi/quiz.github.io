@@ -13,9 +13,9 @@ const questions = [
         question: "Whom will Prachi marry? ",
         answers: [
             { text: "No one", correct: "false" },
-            { text: "God", correct: "true" },
+            { text: "God", correct: "false" },
             { text: "God Knows", correct: "false" },
-            { text: "Jay", correct: "false" },
+            { text: "Jay", correct: "true" },
 
         ]
     },
